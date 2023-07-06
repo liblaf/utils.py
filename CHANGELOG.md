@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.3.0](https://github.com/liblaf/awesome/compare/v0.2.3...v0.3.0) (2023-07-06)
+
+
+### Features
+
+* refactor ([7fc7942](https://github.com/liblaf/awesome/commit/7fc7942787a9b059517114702e2e1d878756156d))
+
+
+### Bug Fixes
+
+* **github:** fix `None` description ([1ce4b36](https://github.com/liblaf/awesome/commit/1ce4b36825dc0a5c30c00207f423c76c24f30be4))
+
+
+### Documentation
+
+* add awesome ([0bc2ba8](https://github.com/liblaf/awesome/commit/0bc2ba8179159e30cc44ff295c2ff7e3b46db689))
+* add awesome github ([77bf20a](https://github.com/liblaf/awesome/commit/77bf20aa69d195575797ffe205abc303d1865d06))
+* add awesome websites ([358326c](https://github.com/liblaf/awesome/commit/358326cc9a1fccfcd4778164ed58b654ef7d90cc))
+* add badges ([bd4251f](https://github.com/liblaf/awesome/commit/bd4251fe4961837d464f4bca742369c9ff2d9df7))
+* add description ([eb244de](https://github.com/liblaf/awesome/commit/eb244de5b3115de78ec84acfc1749b6506b939a4))
+* add homepage ([72c8ec0](https://github.com/liblaf/awesome/commit/72c8ec006dc6fa0406e18af616d3b9f9dac5b753))
+* update awesome list ([58fc4fb](https://github.com/liblaf/awesome/commit/58fc4fb3f550a8006b5fcacb6c248fe17cf749ba))
+
 ## [0.2.3](https://github.com/liblaf/utils.py/compare/v0.2.2...v0.2.3) (2023-05-04)
 
 ### Bug Fixes
